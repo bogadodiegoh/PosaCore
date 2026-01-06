@@ -34,7 +34,7 @@ Physical gift cards in retail stores have no value until they are officially sca
 ## 🔧 Getting Started
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/bogadodiegoh/PosaCore.git](https://github.com/bogadodiegoh/PosaCore.git)
+   git clone https://github.com/bogadodiegoh/PosaCore.git
    ```
 2. Run the Backend:
    ```bash
