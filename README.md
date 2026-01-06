@@ -38,8 +38,8 @@ Physical gift cards in retail stores have no value until they are officially sca
    ```
 2. Run the Backend:
    ```bash
-      cd src/PosaCore.API
-      dotnet run
+   cd src/PosaCore.API
+   dotnet run
    ```
 3. Run the Frontend:
    ```bash
